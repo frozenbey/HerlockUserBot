@@ -8,7 +8,7 @@
     Herlock UserBot is a bot that makes it easy and fun to use Telegram.
     <br>
         |
-        <a href="https://github.com/erdewbey/OwenUserBot/wiki/G%C3%BCncelleme">Güncelleme/Update</a> |
+         |
         <a href="https://t.me/HerlockUserBot">Kanal/Channel </a> |
         <a href="https://t.me/HerlockSupport">Destek/Support</a> |
     <br>
